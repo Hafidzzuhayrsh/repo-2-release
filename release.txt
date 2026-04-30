@@ -1,2 +1,2 @@
-release v1.9 - Pre-release
+release v2.0 - Stable-release
 
